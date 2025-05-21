@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Exam_1.6": {
+      "commandName": "Project",
+      "commandLineArgs": "examples/SimpleSwitch.cs",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
